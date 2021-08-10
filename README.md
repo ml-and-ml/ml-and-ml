@@ -1,5 +1,7 @@
-## Hassan Muhammad
+# Hassan Muhammad
 I'm a writer and computational cancer scientist with expertise in computer vision, machine learning, and big data. I leverage computational pathology to better understand the biological mechanisms which inform disease prognosis. I encourage you to test the models below on your own datasets or expand upon them with your own creativity! Feel free to contact me for implementation assistance.
+
+You can find a complete list of my publications on [Google Scholar](https://scholar.google.com/citations?user=yc8l1kcAAAAJ&hl=en).
 
 
 ## 🔬💻 Selected Computational Pathology Projects
@@ -10,7 +12,11 @@ Due to hardware limitations and because of the massive size of a whole slide ima
 ### ◼️ Deep Clustering using a Convolutional Autoencoder | [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32239-7_67.pdf) [[Code Coming Soon!]](/)
 Before the rise of self-supervised learning, convolutional autoencoders were the standard for converting WSIs into low-dimensional feature vectors. However, a simple MSE-loss does not encourage the model to group together similar features in the embedding space. This model combines a clustering loss with MSE. When applied to WSIs, each cluster produced within the embedding space can be interpretted as a morpholical feature of histology phenotypes across a dataset. These features can then be used as covariates in downstream prognostic modelling tasks with success.
 
-## ✒️ Selected Writing
+## 📃✒️ Selected Writing
+* [A Mental Health Crisis Among Graduate Students: Uncovering the Root Cause](https://regenerationmag.org/a-mental-health-crisis-among-graduate-students/)
+
+* [Humans Have Struggled to Understand Rare Cancers, Let’s Give Artificial Intelligence a Turn.](https://towardsdatascience.com/humans-have-struggled-to-understand-rare-cancers-lets-give-artificial-intelligence-a-turn-d9b180b29805?sk=024ab6b557a43bd4c1909e1b4d43a042)
+
 
 
 ### Connect with me:
@@ -23,7 +29,7 @@ Before the rise of self-supervised learning, convolutional autoencoders were the
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][webdevplaylist]
 [<img align="left" alt="PyTorch" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png" />][webdevplaylist]
@@ -35,12 +41,7 @@ Before the rise of self-supervised learning, convolutional autoencoders were the
 <br />
 <br />
 
----
 
-### 📕 Latest Blog Posts
-
-
----
 
 
 [website]: https://codeSTACKr.com
