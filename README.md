@@ -11,12 +11,12 @@
 
 
 ### Connect with me:
-
+<!-- 
 [<img align="left" alt="ml_and_ml | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ml_and_ml | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ml_and_ml | Medium" height="22px" src="https://inceptum-stor.icons8.com/2RovVa2PJX3Q/medium.svg" />][medium]
 [<img align="left" alt="ml_and_ml | Scholar" width="22px" src="https://e7.pngegg.com/pngimages/31/731/png-clipart-google-scholar-education-research-doctor-of-philosophy-scholar-s-logo-monochrome.png" />][scholar]
-
+ -->
 
 <br />
 
