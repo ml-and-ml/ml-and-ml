@@ -1,9 +1,9 @@
-## Hassan Muhammad, Computational Pathology
+## Hassan Muhammad
 
-## homepage under construction
-- 🔭 test
+## Selected Computational Pathology Projects:
 
-### Selected CompPath Publications:
+### End-to-End Survival Modelling for Whole Slide Images | [[Paper]](https://openreview.net/images/pdf_icon_blue.svg) [[Code]](https://github.com/ml-and-ml/EPIC-Survival)
+Due to hardware limitations and because of the massive size of a whole slide image (WSI), survival modelling on WSI datasets is typically done using a two-stage approach: encoding and aggregation. First, a model is trained on WSI tiles or patches, and then a second method is used to aggregate information generated from the output of the first stage to output a final prediction. EPIC-Survival bridges encoding and aggregation into an end-to-end survival modelling approach, while introducing a new loss term, _stratification boosting_, to encourage the model also to discriminate between risk groups for subtyping.
 
 ### CompPath Publications:
 
